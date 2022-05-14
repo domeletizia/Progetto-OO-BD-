@@ -1,0 +1,9 @@
+v1.0
+
+Rilascio app SOLO FIS (FP-18)
+
+v1.1 22-02-2022
+* Sistemato dimensioni finestra
+
+v1.1 22-03-2022
+* Aggiunto modello DSL (I30) ai modelli utilizzabili
